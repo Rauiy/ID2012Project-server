@@ -14,7 +14,7 @@ public class DetectorTester {
     final static private String CASCADE = "cascades/birdheadcascadev6.xml";
     final static private String root = "CascadeTraining/cascade_res";
     final static String targetFolder = root + CASCADE.substring(9,CASCADE.length()-4) ;
-    final static String sourceFolder = "bah";
+    final static String sourceFolder = "birdsExamples";
 
     static int nr = 0;
 
