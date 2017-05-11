@@ -1,0 +1,6 @@
+pos\pos1.jpg 1 65 131 639 478
+pos\pos2.jpg 1 104 119 600 575
+pos\pos3.jpg 1 52 29 583 466
+pos\pos4.jpg 1 256 101 719 498
+pos\pos5.jpg 1 31 82 515 386
+pos\pos6.jpg 1 91 130 642 461

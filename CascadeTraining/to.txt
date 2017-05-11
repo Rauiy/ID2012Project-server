@@ -1,0 +1,12 @@
+img\img1.jpg 1 61 15 36 27
+img\img10.jpg 1 28 51 33 41
+img\img11.jpg 1 87 12 55 36
+img\img12.jpg 1 96 14 55 34
+img\img2.jpg 1 60 45 44 32
+img\img3.jpg 1 91 44 44 32
+img\img4.jpg 1 37 31 29 32
+img\img5.jpg 1 120 23 45 35
+img\img6.jpg 1 118 26 44 35
+img\img7.jpg 1 99 33 45 40
+img\img8.jpg 1 117 41 52 35
+img\img9.jpg 1 123 21 51 39

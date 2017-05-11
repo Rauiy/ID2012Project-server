@@ -1,0 +1,6 @@
+img\img1.jpg 1 46 26 92 85
+img\img2.jpg 1 47 22 92 92
+img\img3.jpg 1 55 8 106 102
+img\img4.jpg 1 47 19 112 95
+img\img5.jpg 1 53 24 111 89
+img\img6.jpg 1 60 29 101 89

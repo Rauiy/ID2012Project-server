@@ -1,0 +1,19 @@
+pos\pos1.jpg 1 505 137 192 107
+pos\pos10.jpg 1 61 47 57 40
+pos\pos11.jpg 1 146 7 61 34
+pos\pos12.jpg 1 5 50 117 71
+pos\pos13.jpg 1 785 446 201 139
+pos\pos15.JPG 1 636 204 463 254
+pos\pos16.jpg 1 165 23 111 56
+pos\pos17.jpg 1 171 80 121 119
+pos\pos18.JPG 1 195 8 134 73
+pos\pos19.jpg 1 233 69 169 96
+pos\pos2.jpg 1 497 127 212 151
+pos\pos20.jpg 1 93 21 118 96
+pos\pos3.jpg 1 441 36 193 116
+pos\pos4.jpg 1 286 102 248 154
+pos\pos5.jpg 1 387 76 160 108
+pos\pos6.jpg 1 528 134 202 132
+pos\pos7.jpg 1 1015 220 410 249
+pos\pos8.jpg 1 594 40 247 118
+pos\pos9.jpg 2 100 17 88 55 243 17 80 58
